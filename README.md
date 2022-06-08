@@ -1,11 +1,13 @@
+<h1 align="center">Hi 👋 We are the AKT team</h1>
 <h3 align="center">The company of all dealing. Since 1776..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktofficials&label=Profile%20views&color=0e75b6&style=flat" alt="aktofficials" /> </p>
 
-- 🔭 We currently working on **Many stuff**
+- 🔭 WE currently working on **Many stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@aktofficials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aktofficials" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
